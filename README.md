@@ -9,6 +9,13 @@ Two datasets were used in this project. The first dataset was a global cost of l
 The first dataset had a lot of nan values, so those had to be dropped. Most rows with at least one nan value had more than one nan value, so all rows with nan vlaues were dropped instead of focusing on underrepresented columns. The last column also indicated rows which may have inadequate data quality, so those rows were filtered out as well. Lastly, all 55 cost of living features were normalized and averaged into one cost of living (COL) index to make comparison between crime index easier later on. Below is the top and bottom 20 cities for a few COL features, in comparison to the created COL Index. You will notice a lot of overlap, which is a simple marker of the metric's efficacy.
 ![top20_cheap_1meal.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top20_cheap_1meal.png)
 ![bot20_cheap_1meal.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_cheap_1meal.png)
+![top20_cheap_2meal.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top20_cheap_2meal.png)
+![bot20_cheap_2meal.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_cheap_2meal.png)
+![top20_cheap_beef.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top20_cheap_beef.png)
+![bot20_cheap_beef.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_cheap_beef.png)
+![top20_cheap_1bed.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top20_cheap_1bed.png)
+![bot20_cheap_1bed.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_cheap_1bed.png)
+![bot20_cheap_1bed_adj.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_cheap_1bed_adj.png)
 
 The second dataset required its location be stripped, as it was originally one string of "city,state,country". This was split into three columns and the state column was dropped, as we are more interested in global destinations than United States-based locations. This dataset also had no nans to remove.
 
