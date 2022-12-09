@@ -30,6 +30,7 @@ Matplotlib was then used to create the visualizations.
 ### COL Index Plots
 ![top20_col.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top20_col.png)
 ![bot20_col.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_col.png)
+Unsurprisingly, some of the poorest Middle-Eastern and Southeast Asian countries populate the bottom of the list and the
 
 ### What answer was found to the research question?
 The best area to visit in terms of low cost of living and low crime index are the eastern European countries. Notably, Romania, Armenia, Turkey, Croatia, and Czech Republic. All these countries had multiple cities with low cost of living and low crime index. A few other notable cities include Merida, Mexico, Abu Dahbi, UAE, Doha Qatar, and Taipei, Taiwan.
