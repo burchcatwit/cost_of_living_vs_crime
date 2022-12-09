@@ -40,6 +40,13 @@ Both the COL Index plots have a large overlap with the previous COL metric plots
 ![top20_wci.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top20_wci.png)
 ![bot20_wci.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_wci.png)
 
+Switzerland and the Norwegian countries top the plot for crime index as well. So, while they may not be cheap to visit, they are some of the safest countries on the planet. On the other hand, Brazil and South Africa are among the most crime ridden countries. There are also a couple US states on the bottom list, such as Baltimore and Detroit. One could argue that they are comparable to the Brazilian or South African cities. Given these cities reputations, though, that is likely not going to be make anyone eager to visit a city with nearly as much crime.
+
+### 
+![top50_safe_col.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top50_safe_col.png)
+![top50_safe_col_adj.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top50_safe_col_adj.png)
+![top50_cheap_wci_adj.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top50_cheap_wci_adj.png)
+
 ### What answer was found to the research question?
 The best area to visit in terms of low cost of living and low crime index are the eastern European countries. Notably, Romania, Armenia, Turkey, Croatia, and Czech Republic. All these countries had multiple cities with low cost of living and low crime index. A few other notable cities include Merida, Mexico, Abu Dahbi, UAE, Doha Qatar, and Taipei, Taiwan.
 ### Any visualizations?
