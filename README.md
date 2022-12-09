@@ -65,4 +65,5 @@ The best area to visit in terms of low cost of living and low crime index are th
 Many of the cheapest or most expensive cities fall in line with what we know about global GDP and word of mouth, such as Switzerland being notably lavish. Still, the cost vs. safety of Eastern European countries is often overlooked in the public eye. Future research could delve deeper into Eastern European countries or a collection of ideal cities to further assertain both safety as well as tourist pulls, such as attractions, food quality, recreational experiences, accessible hobbies, etc. to eventually find "diamonds in the rough" or the definitive best affordable cities to visit.
 
 ## Reference 
-[AHMAD JALAL MASOOD]. ([2022-11]). [World Crime Index], [Version 1]. Retrieved [2022-12-8] from [[URL of the dataset](https://www.kaggle.com/datasets/6611a4648856d3dd2b8cd9fbc67b3195e9af52ef2dc36c9b66f1ef8ea89cf18c)].
+AHMAD JALAL MASOOD (2022-11). World Crime Index, Version 1. Retrieved: 2022-12-8 from (https://www.kaggle.com/datasets/6611a4648856d3dd2b8cd9fbc67b3195e9af52ef2dc36c9b66f1ef8ea89cf18c).
+MIGUEL PIEDADE (2022-12). Global Cost of Living, Version 2. Retrieved: 2022-12-8 from (https://www.kaggle.com/datasets/6611a4648856d3dd2b8cd9fbc67b3195e9af52ef2dc36c9b66f1ef8ea89cf18c](https://www.kaggle.com/datasets/mvieira101/global-cost-of-living?select=cost-of-living_v2.csv).
