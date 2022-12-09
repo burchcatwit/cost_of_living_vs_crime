@@ -4,7 +4,8 @@
 This project was undertaken in further exploration of the best cities/countries to travel to around the world, while working remote. The group project focussed on which countries have modern internet speeds despite a low GDP, allowing a remote worker to comfortably complete modern work while maximizing their high (compared to global) salaray. However, as an international traveler, we also want to remain as safe as possible from crime ridden countries or specific cities. Thus, this personal project aims to find countries with the lowest cost of living, while remaing safest (according to a global crime index).
 
 ## Selection of Data
-Two datasets were used in this project. The first dataset was a global cost of living dataset scraped from Numbeo and found on Kaggle.com. The second dataset was a crime index data set also found on Kaggle.com.
+Two datasets were used in this project. The first dataset was a global cost of living dataset scraped from Numbeo and found on Kaggle.com. The second dataset was a crime index data set also found on Kaggle.com 
+![Kaggle.com](https://www.kaggle.com/datasets/6611a4648856d3dd2b8cd9fbc67b3195e9af52ef2dc36c9b66f1ef8ea89cf18c?resource=download)).
 
 The first dataset had a lot of nan values, so those had to be dropped. Most rows with at least one nan value had more than one nan value, so all rows with nan vlaues were dropped instead of focusing on underrepresented columns. The last column also indicated rows which may have inadequate data quality, so those rows were filtered out as well. Lastly, all 55 cost of living features were normalized and averaged into one cost of living (COL) index to make comparison between crime index easier later on. Below, in results, is the top and bottom 20 cities for a few COL features, in comparison to the created COL Index. You will notice a lot of overlap, which is a simple marker of the metric's efficacy.
 
