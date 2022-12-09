@@ -28,12 +28,17 @@ Matplotlib was then used to create the visualizations.
 ![bot20_cheap_1bed.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_cheap_1bed.png)
 ![bot20_cheap_1bed_adj.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_cheap_1bed_adj.png)
 
-Unsurprisingly, some of the poorest Middle-Eastern and Southeast Asian countries populate the bottom lists whereas Switzerland, United States, and Norwegian countries populate the top lists. 
+Unsurprisingly, some of the poorest Middle-Eastern and Southeast Asian countries populate the bottom lists whereas Switzerland, United States, and Norwegian countries populate the top lists. There are a couple Indonesian cities as well as Fiji, which have cheap food and are known to be beautiful. These could potentially be looked into as ideal vacationing locations if their crime index is low as well. Switzerland is also well known for being one of the most expensive countries to visit globally, so its no surprise to see if top the lists.
 
 ### COL Index Plots
 ![top20_col.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top20_col.png)
 ![bot20_col.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_col.png)
 
+Both the COL Index plots have a large overlap with the previous COL metric plots, which helps justfiy its use a metric similar to crime index!
+
+### World Crime Index Plots
+![top20_wci.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top20_wci.png)
+![bot20_wci.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/bot20_wci.png)
 
 ### What answer was found to the research question?
 The best area to visit in terms of low cost of living and low crime index are the eastern European countries. Notably, Romania, Armenia, Turkey, Croatia, and Czech Republic. All these countries had multiple cities with low cost of living and low crime index. A few other notable cities include Merida, Mexico, Abu Dahbi, UAE, Doha Qatar, and Taipei, Taiwan.
