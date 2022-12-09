@@ -66,4 +66,5 @@ Many of the cheapest or most expensive cities fall in line with what we know abo
 
 ## Reference 
 AHMAD JALAL MASOOD (2022-11). World Crime Index, Version 1. Retrieved: 2022-12-8 from (https://www.kaggle.com/datasets/6611a4648856d3dd2b8cd9fbc67b3195e9af52ef2dc36c9b66f1ef8ea89cf18c).
-MIGUEL PIEDADE (2022-12). Global Cost of Living, Version 2. Retrieved: 2022-12-8 from (https://www.kaggle.com/datasets/6611a4648856d3dd2b8cd9fbc67b3195e9af52ef2dc36c9b66f1ef8ea89cf18c](https://www.kaggle.com/datasets/mvieira101/global-cost-of-living?select=cost-of-living_v2.csv).
+MIGUEL PIEDADE (2022-12). Global Cost of Living, Version 2. Retrieved: 2022-12-8 from 
+(https://www.kaggle.com/datasets/mvieira101/global-cost-of-living?select=cost-of-living_v2.csv).
