@@ -47,6 +47,9 @@ Switzerland and the Norwegian countries top the plot for crime index as well. So
 
 ### 
 ![top50_safe_col.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top50_safe_col.png)
+
+
+
 ![top50_safe_col_adj.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top50_safe_col_adj.png)
 ![top50_cheap_wci_adj.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top50_cheap_wci_adj.png)
 
