@@ -48,19 +48,21 @@ Switzerland and the Norwegian countries top the plot for crime index as well. So
 ### 
 ![top50_safe_col.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top50_safe_col.png)
 
-
+Eastern European countries seem to be a standout, as they are among the top 50 safest countries while often having some of the lowest cost of living. Let's adjust for COL Index to filter out some of the safe cities with wildly high cost of living.
 
 ![top50_safe_col_adj.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top50_safe_col_adj.png)
+
+With the adjustment, the Eastern European countries become the standouts. Romania has the most cities on the list, with Armenia, Croatia, and Turkey having a couple a piece. A few interesting cities to find on this list were Tokyo, Seoul, Taipei, and Tampere (Finland). Tokyo, Seoul, and Tampere belong to notably rich countries, so to see them both this safe and somewhat affordable (under 30 COL Index) makes them prime targets to travel to. Taipei was interesting because it happened to be one of the absolute safest countries, while have a cost of living below 25 COL Index which means its both safer and cheaper than the other three mentioned!
+
 ![top50_cheap_wci_adj.png](https://github.com/burchcatwit/cost_of_living_vs_crime/blob/main/figs/top50_cheap_wci_adj.png)
 
-### What answer was found to the research question?
-The best area to visit in terms of low cost of living and low crime index are the eastern European countries. Notably, Romania, Armenia, Turkey, Croatia, and Czech Republic. All these countries had multiple cities with low cost of living and low crime index. A few other notable cities include Merida, Mexico, Abu Dahbi, UAE, Doha Qatar, and Taipei, Taiwan.
-### Any visualizations?
+Looking at the cheapest countries adjusted to be under crime index of 30, the Eastern European countries get bolstered even further. Slovakian cities are added to list, as well as more from the afforementioned countries, like Romania. There are also a couple cities from Belgium and the Netherlands among the ranks, although near the higher end of the list (close to 30 COL Index, which is "affordable" but above the mean COL Index).
 
 ## Discussion 
 ### What might the answer imply and why does it matter?
-### How does it fit in with what other researchers have found?
-### What are the perspectives for future research?
+The best area to visit in terms of low cost of living and low crime index are the eastern European countries. Notably, Romania, Armenia, Turkey, Croatia, and Czech Republic. All these countries had multiple cities with low cost of living and low crime index. A few other notable cities include Merida, Mexico, Abu Dahbi, UAE, Doha Qatar, and Taipei, Taiwan. This gives a travel hungry remote worker plenty of options to explore worldwide, while remaining safe and stretching their dollar as far as possible. Countries to avoid without adequate research, protection, and guidance would definitely be Brazil and South Africa. The Middle-East and most of India, do not seem worth the risk even though your dollar will go quite far there, although, Mangalore seems to be a potential exception to this.
+
+Many of the cheapest or most expensive cities fall in line with what we know about global GDP and word of mouth, such as Switzerland being notably lavish. Still, the cost vs. safety of Eastern European countries is often overlooked in the public eye. Future research could delve deeper into Eastern European countries or a collection of ideal cities to further assertain both safety as well as tourist pulls, such as attractions, food quality, recreational experiences, accessible hobbies, etc. to eventually find "diamonds in the rough" or the definitive best affordable cities to visit.
 
 ## Reference 
-### Reference of all citations
+[AHMAD JALAL MASOOD]. ([2022-11]). [World Crime Index], [Version 1]. Retrieved [2022-12-8] from [[URL of the dataset](https://www.kaggle.com/datasets/6611a4648856d3dd2b8cd9fbc67b3195e9af52ef2dc36c9b66f1ef8ea89cf18c)].
